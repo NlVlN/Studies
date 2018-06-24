@@ -1,2 +1,2 @@
 # Studies
-My code from studies
+My code from university
