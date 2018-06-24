@@ -1,2 +1,2 @@
-# Study
-codes for study
+# Studies
+My code from studies
